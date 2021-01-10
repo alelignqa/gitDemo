@@ -1,0 +1,3 @@
+this file will be send to the github for the first time
+I do have a problem to figure out how to send it 
+a lot of git git git 
