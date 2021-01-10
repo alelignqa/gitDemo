@@ -6,7 +6,7 @@ public class Selam {
 	  double length=6.2;
 
 	public static void main(String[] args){
-	
+
 	Selam obj=new Selam();
 
 
